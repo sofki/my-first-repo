@@ -1,30 +1,13 @@
-# This is a large heading
+# Sofia Kiriakidi
 
-## This is a smaller heading
+### Geography
+I live in the city of Athens in Greece.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading
+Some of my favourite books are The Marseilles Trology by Jean-Claude Izzo and Down and About in Paris and London by George Orwell.
 
-- This is
-- an unordered
-- list
+### Food
+I love food and I enjoy exprimenting with cuisines all over the world but I mostly enjoy the mediterranean kitchen.
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+### Contact
+The best way to get in touch with me is on facebook.
